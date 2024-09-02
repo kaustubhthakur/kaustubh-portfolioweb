@@ -18,6 +18,7 @@ function Skills() {
         <SkillList src={checkMarkIcon} skill="C++" />
         <SkillList src={checkMarkIcon} skill="Solidity" />
         <SkillList src={checkMarkIcon} skill="Node.js" />
+        <SkillList src={checkMarkIcon} skill="Express.js" />
       </div>
       <hr />
       <div className={styles.skillList}>
@@ -25,6 +26,8 @@ function Skills() {
         <SkillList src={checkMarkIcon} skill="Hardhat" />
         <SkillList src={checkMarkIcon} skill="Chainlink" />
         <SkillList src={checkMarkIcon} skill="Tailwind CSS" />
+        <SkillList src={checkMarkIcon} skill="Firebase" />
+        <SkillList src={checkMarkIcon} skill="GraphQl" />
       </div>
       <hr />
       <div className={styles.skillList}>
@@ -33,7 +36,7 @@ function Skills() {
         <SkillList src={checkMarkIcon} skill="Git" />
         <SkillList src={checkMarkIcon} skill="Golang" />
         <SkillList src={checkMarkIcon} skill="MongoDB" />
-        <SkillList src={checkMarkIcon} skill="Posgresql" />
+        <SkillList src={checkMarkIcon} skill="Postgresql" />
         <SkillList src={checkMarkIcon} skill="Bootstrap" />
       </div>
     </section>

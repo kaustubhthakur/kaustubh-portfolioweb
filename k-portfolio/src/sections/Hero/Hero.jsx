@@ -43,7 +43,7 @@ function Hero() {
         </h1>
         <h2>Backend And Web3 Developer</h2>
         <span>
-          <a href="https://twitter.com/kaustubhthakurr" target="_blank">
+          <a href="https://x.com/klauss_96" target="_blank">
             <img src={twitterIcon} alt="Twitter icon" />
           </a>
           <a href="https://github.com/kaustubhthakur" target="_blank">
@@ -68,7 +68,7 @@ function Hero() {
         
         </span>
         <p className={styles.description}>
-      A Passionate Web3 developer and backend developer ,Who Love to Solve problems and play chess
+     I Am A Passionate Web3 developer and backend developer ,Who Love to Solve problems and play chess
         </p>
         <a href={CV} download>
           <button className="hover">Resume</button>
